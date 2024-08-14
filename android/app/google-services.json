@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "963091345266",
+    "firebase_url": "https://vtrack-a70b5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vtrack-a70b5",
+    "storage_bucket": "vtrack-a70b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963091345266:android:517fd9afef2f6056ee37eb",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963091345266-m0jma3a6psqm9t8cpl9c4adqo5kjpb87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgB1G0f6mb3dOlA19pqNnlBdI8qc1iaZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963091345266-m0jma3a6psqm9t8cpl9c4adqo5kjpb87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963091345266:android:f4e31d9aafeffca2ee37eb",
+        "android_client_info": {
+          "package_name": "com.example.vtrack_jan_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963091345266-m0jma3a6psqm9t8cpl9c4adqo5kjpb87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgB1G0f6mb3dOlA19pqNnlBdI8qc1iaZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963091345266-m0jma3a6psqm9t8cpl9c4adqo5kjpb87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
